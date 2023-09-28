@@ -1,11 +1,11 @@
 ![mo7amed gom3a!](./github-header-image.png)
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/mohamed-gomaa-626a18249/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=940081&color=940081)](https://www.instagram.com/mohamd.gomaa.hamoda/)
-[![facebook Badge](https://img.shields.io/badge/facebook-Profile-informational?style=for-the-badge&logo=facebook&logoColor=940081&color=940081)](https://www.facebook.com/profile.php?id=100011375729397)
-[![Gmail contact](https://img.shields.io/badge/gmail-Profile-informational?style=for-the-badge&logo=gmail&logoColor=940081&color=940081)](https://mo7amed.gom3a.7moda@gmail.com)
-[![telegram contact](https://img.shields.io/badge/telegram-Profile-informational?style=for-the-badge&logo=telegram&logoColor=940081&color=940081)](https://t.me/mohamed_Gomaa_hamoda)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/adelkazzaz)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=940081&color=940081)](https://www.instagram.com/adelalkazzaz/)
+[![facebook Badge](https://img.shields.io/badge/facebook-Profile-informational?style=for-the-badge&logo=facebook&logoColor=940081&color=940081)](https://www.facebook.com/adel.alkzaz.33)
+[![Gmail contact](https://img.shields.io/badge/gmail-Profile-informational?style=for-the-badge&logo=gmail&logoColor=940081&color=940081)](https://contact.kazzaz@gmail.com)
+[![telegram contact](https://img.shields.io/badge/telegram-Profile-informational?style=for-the-badge&logo=telegram&logoColor=940081&color=940081)](https://t.me/Adelalkzaz)
 
 
 Hey there 👋
@@ -20,14 +20,14 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 
 <br>
 
-<a href="https://github.com/mo7amedgom3a/simple_shell">
+<a href="https://github.com/Adelkazzaz/simple_shell">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedgom3a&repo=simple_shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/mo7amedgom3a/alx-higher_level_programming">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mo7amedgom3a&repo=alx-higher_level_programming&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Adelkazzaz/alx-higher_level_programming">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Adelkazzaz&repo=alx-higher_level_programming&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -43,8 +43,8 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 
 <br>
 
-<a href="https://github.com/mo7amedgom3a">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedgom3a&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Adelkazzaz">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adelkazzaz&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/mo7amedgom3a">
