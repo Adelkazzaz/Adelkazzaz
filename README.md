@@ -12,6 +12,6 @@ Hey there 👋
 
 I'm a software engineer who specializes in full-stack development. I create beautifully-simple, innovative.
 
-Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in/mohamed-gomaa-626a18249/)
+Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in/adelkazzaz)
 
 <br>
