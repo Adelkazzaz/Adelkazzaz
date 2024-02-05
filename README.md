@@ -7,7 +7,7 @@
 
 Hey there 👋
 
-I'm a software engineer who specializes in full-stack development. I create beautifully-simple, innovative.
+I'm a software engineer. I create beautifully-simple, innovative.
 
 Want to know more about me? [Check out my LinkedIn.](https://www.linkedin.com/in/adelkazzaz)
 
