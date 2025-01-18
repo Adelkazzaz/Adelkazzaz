@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelkazzaz&label=Profile%20views&color=0e75b6&style=flat" alt="adelkazzaz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adelkazzaz" alt="adelkazzaz" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=adelkazzaz&no-frame=true&no-bg=false&theme=" alt="adelkazzaz" /></a> </p>
+
+
 
 - 📫 How to reach me **<contact.kazzaz@gmail.com>**
 
@@ -60,6 +62,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a> -->
+
+<!-- <a href="https://github-profile-trophy.vercel.app/?username=adelkazzaz&no-frame=true&no-bg=false&theme=algolia"> -->
 
 </p>
 
