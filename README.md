@@ -1,7 +1,5 @@
-![Header](./github-header-image.png)
-
 <h1 align="left">Hi 👋, I'm Adel Kazzaz</h1>
-<h3 align="left">A passionate Machine Learning and Computer Vision engineer</h3>
+<h3 align="left">Software Engineer specializing in Machine Learning, passionate about Computer Vision, and dedicated to understanding the software development lifecycle and data flow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelkazzaz&label=Profile%20views&color=0e75b6&style=flat" alt="adelkazzaz" /> </p>
 
