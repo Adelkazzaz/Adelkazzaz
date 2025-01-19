@@ -45,7 +45,7 @@
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: flex-start;">
+<div style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: flex-start;">
   <!-- Programming Languages -->
   <div align="center" style="width: 120px; text-align: center;">
     <h4>Programming Languages</h4>
