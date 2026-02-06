@@ -11,15 +11,15 @@
 
 <!-- Trophy -->
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=adelkazzaz&no-frame=true&no-bg=false&theme=radical" alt="github-trophy"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=adelkazzaz&no-frame=true&no-bg=false&theme=radical" alt="github-trophy"/>
 </p>
 
 <!-- GitHub Stats -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adelkazzaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs"/>
+  <img align="left" src="https://github-profile-trophy-fork-two.vercel.app/api/top-langs?username=adelkazzaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs"/>
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adelkazzaz&show_icons=true&theme=radical" alt="github-stats"/>
+  <img align="center" src="https://github-profile-trophy-fork-two.vercel.app/api?username=adelkazzaz&show_icons=true&theme=radical" alt="github-stats"/>
 </p>
 
 <!-- Contact -->
