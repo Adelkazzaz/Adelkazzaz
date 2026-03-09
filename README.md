@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Adel Kazzaz</h1>
+<h1 align="left">Hello world! 👋, I'm Adel Kazzaz</h1>
 <h3 align="left">
   Software Engineer specializing in Machine Learning, passionate about Computer Vision, 
   and dedicated to understanding the software development lifecycle and data flow.
@@ -10,17 +10,14 @@
 </p>
 
 <!-- Trophy -->
-<p align="left">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=adelkazzaz&no-frame=true&no-bg=false&theme=radical" alt="github-trophy"/>
-</p>
+### 📈 &nbsp;Analytics
 
-<!-- GitHub Stats -->
-<p>
-  <img align="left" src="https://github-profile-trophy-fork-two.vercel.app/api/top-langs?username=adelkazzaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs"/>
-</p>
-<p>
-  <img align="center" src="https://github-profile-trophy-fork-two.vercel.app/api?username=adelkazzaz&show_icons=true&theme=radical" alt="github-stats"/>
-</p>
+<img title="A+++++++++ I <3 arbitrary grades" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adelkazzaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26%22"/>
+
+<img title="Does rerunning ci count as a contribution? 💰" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adelkazzaz&theme=vue-dark&hide_border=true&theme=algolia&ount_private=true&line_height=26%22"/>
+
+<img title="And they say Java has a lot of boilerplate..." height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adelkazzaz&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
+
 
 <!-- Contact -->
 - 📫 How to reach me: **<contact.kazzaz@gmail.com>**
