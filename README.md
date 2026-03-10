@@ -1,7 +1,7 @@
 <h1 align="left">Hello world! 👋, I'm Adel Kazzaz</h1>
 <h3 align="left">
-  Software Engineer specializing in Machine Learning, passionate about Computer Vision, 
-  and dedicated to understanding the software development lifecycle and data flow.
+  Machine Learning Engineer, Hands-on Computer Vision, MLOps,
+  and dedicated to understanding the software lifecycle and data flow.
 </h3>
 
 <!-- Profile Views -->
@@ -11,10 +11,9 @@
 
 <!-- Trophy -->
 ### 📈 &nbsp;Analytics
+<img title="Does rerunning ci count as a contribution? 💰" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adelkazzaz&theme=vue-dark&hide_border=true&theme=algolia&ount_private=true&line_height=26%22"/>
 
 <img title="A+++++++++ I <3 arbitrary grades" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adelkazzaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26%22"/>
-
-<img title="Does rerunning ci count as a contribution? 💰" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adelkazzaz&theme=vue-dark&hide_border=true&theme=algolia&ount_private=true&line_height=26%22"/>
 
 <img title="And they say Java has a lot of boilerplate..." height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adelkazzaz&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
 
