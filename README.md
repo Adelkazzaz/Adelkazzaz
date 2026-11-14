@@ -1,12 +1,6 @@
 <div align="center">
 
 <a href="https://github.com/Adelkazzaz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=39D0C8&center=true&vCenter=true&width=800&lines=adel%40github%3A~%24+whoami;ML+Systems+%7C+MLOps+%7C+Real-Time+Computer+Vision;Model+Serving+%7C+Inference+Optimization+%7C+Cloud;From+experiment+to+reliable+production+inference" alt="Animated terminal introduction"/>
-</a>
-
-<br />
-
-<a href="https://github.com/Adelkazzaz">
   <img src="./assets/terminal-identity.svg" alt="Animated terminal identity for Adel Kazzaz: ML Systems, MLOps, and real-time computer vision" width="100%"/>
 </a>
 
@@ -59,10 +53,19 @@ focus/
 └─> github.com/Adelkazzaz/Linucast                                           
 ```
 
-`[open: real-time-object-detection](https://github.com/Adelkazzaz)` ·
-`[open: easy-deploy](https://github.com/Adelkazzaz)` ·
-`[open: minirag](https://github.com/Adelkazzaz/MiniRag)` ·
-`[open: linucast](https://github.com/Adelkazzaz/Linucast)`
+```console
+adel@github:~/featured-work$ ls -1 --color=always
+real-time-object-detection  easy-deploy  MiniRag  Linucast
+```
+
+<div align="center">
+
+<a href="https://github.com/Adelkazzaz">[ open: real-time-object-detection ]</a> ·
+<a href="https://github.com/Adelkazzaz">[ open: easy-deploy ]</a> ·
+<a href="https://github.com/Adelkazzaz/MiniRag">[ open: MiniRag ]</a> ·
+<a href="https://github.com/Adelkazzaz/Linucast">[ open: Linucast ]</a>
+
+</div>
 
 ## `$ stack --list --color=teal`
 
