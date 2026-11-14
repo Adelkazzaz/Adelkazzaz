@@ -6,15 +6,9 @@
 
 <br />
 
-```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│  adel@github:~$ whoami                                                   │
-│  Adel Kazzaz — ML Systems, MLOps, and real-time computer vision           │
-│                                                                          │
-│  adel@github:~$ status --focus                                            │
-│  [online] model serving  [online] observability  [online] deployment     │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<a href="https://github.com/Adelkazzaz">
+  <img src="./assets/terminal-identity.svg" alt="Animated terminal identity for Adel Kazzaz: ML Systems, MLOps, and real-time computer vision" width="100%"/>
+</a>
 
 <img src="./assets/terminal-pipeline.svg" alt="Animated ML systems pipeline: data, training, serving, and observability" width="100%"/>
 
@@ -28,7 +22,7 @@
 
 <br />
 
-## `>_` About me
+## `$ cat /etc/adel/about`
 
 I build the systems around machine learning: preparing data, training and evaluating models, optimizing runtimes, packaging inference services, and making deployments observable.
 
@@ -42,62 +36,35 @@ focus/
 └── CI/CD, monitoring & reproducible experiments
 ```
 
-## `./featured-work.sh`
+## `$ ./featured-work.sh --verbose`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```text
+┌─[01] real-time-object-detection────────────────────────────────────────────
+│ YOLOv11n · KITTI · Azure                                                 
+│ 92.4% mAP  ·  196 FPS  ·  5.1 ms latency                                
+│ ONNX/TorchScript export · API serving · pipeline monitoring             
+└─> github.com/Adelkazzaz                                                
 
-### 🚗 Real-Time Object Detection
+┌─[02] easy-deploy───────────────────────────────────────────────────────────
+│ GitHub → AWS automation · infrastructure provisioning · CI/CD orchestration
+│ Reduced developer cloud configuration overhead by 40%                      
+└─> github.com/Adelkazzaz                                                    
 
-End-to-end computer vision pipeline built with **YOLOv11n** on KITTI and deployed on Azure.
+┌─[03] minirag───────────────────────────────────────────────────────────────
+│ Low-latency document Q&A · FastAPI · LangChain · Qdrant · MongoDB · Docker 
+└─> github.com/Adelkazzaz/MiniRag                                            
 
-`92.4% mAP` · `196 FPS` · `5.1 ms latency`
+┌─[04] linucast──────────────────────────────────────────────────────────────
+│ Linux virtual camera · face tracking · auto-framing · segmentation         
+└─> github.com/Adelkazzaz/Linucast                                           
+```
 
-ONNX/TorchScript export, inference optimization, API serving, and pipeline monitoring.
+`[open: real-time-object-detection](https://github.com/Adelkazzaz)` ·
+`[open: easy-deploy](https://github.com/Adelkazzaz)` ·
+`[open: minirag](https://github.com/Adelkazzaz/MiniRag)` ·
+`[open: linucast](https://github.com/Adelkazzaz/Linucast)`
 
-<a href="https://github.com/Adelkazzaz">View project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Easy Deploy
-
-Automated platform for shipping GitHub repositories directly to AWS infrastructure.
-
-Infrastructure automation, CI/CD orchestration, and cloud resource management designed to reduce configuration overhead.
-
-<a href="https://github.com/Adelkazzaz">View project →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 MiniRag
-
-Production-oriented RAG service for low-latency document question answering.
-
-FastAPI · LangChain · Qdrant · MongoDB · Docker
-
-<a href="https://github.com/Adelkazzaz/MiniRag">View repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎥 Linucast
-
-Linux virtual camera application with real-time AI face tracking, auto-framing, and background segmentation.
-
-Native, low-overhead video inference for Linux desktop pipelines.
-
-<a href="https://github.com/Adelkazzaz/Linucast">View repository →</a>
-
-</td>
-</tr>
-</table>
-
-## `stack --list`
+## `$ stack --list --color=teal`
 
 <img src="./assets/terminal-stack.svg" alt="Animated terminal technology stack" width="100%"/>
 
@@ -110,7 +77,9 @@ Native, low-overhead video inference for Linux desktop pipelines.
 
 </div>
 
-## `metrics --live`
+## `$ observe --live`
+
+<img src="./assets/terminal-monitor.svg" alt="Animated ML systems telemetry monitor showing throughput, latency, accuracy, and deployment health" width="100%"/>
 
 <div align="center">
 
@@ -124,7 +93,7 @@ Native, low-overhead video inference for Linux desktop pipelines.
 </div>
 
 <details>
-<summary><b>Animated contribution graph</b></summary>
+<summary><b>$ git log --graph --animate</b></summary>
 <br />
 
 <div align="center">
@@ -142,7 +111,7 @@ Native, low-overhead video inference for Linux desktop pipelines.
 
 <br />
 
-<a href="mailto:contact.kazzaz@gmail.com">Let’s build something reliable.</a>
+<a href="mailto:contact.kazzaz@gmail.com">$ printf "Let’s build something reliable.\n"</a>
 
 <br /><br />
 

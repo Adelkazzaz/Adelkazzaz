@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">Animated Adel Kazzaz terminal identity</title>
+  <desc id="desc">A Linux terminal panel introducing Adel Kazzaz and showing online ML systems services.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#08111d"/>
+      <stop offset="1" stop-color="#123b43"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#39d0c8" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font: 600 15px 'JetBrains Mono', 'Courier New', monospace; }
+      .small { font: 12px 'JetBrains Mono', 'Courier New', monospace; }
+      .scan { animation: scan 3.8s linear infinite; }
+      .cursor { animation: blink 1s steps(2, start) infinite; }
+      .prompt { animation: reveal 5s steps(1, end) infinite; }
+      .status { animation: pulse 2.2s ease-in-out infinite; }
+      .status.two { animation-delay: .35s; }
+      .status.three { animation-delay: .7s; }
+      @keyframes scan { from { transform: translateY(0); } to { transform: translateY(224px); } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes reveal { 0%, 15% { opacity: 0; } 25%, 100% { opacity: 1; } }
+      @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) {
+        .scan, .cursor, .prompt, .status { animation: none; }
+      }
+    </style>
+  </defs>
+  <rect width="1000" height="250" rx="18" fill="url(#background)"/>
+  <rect width="1000" height="250" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="998" height="248" rx="17" fill="none" stroke="#39d0c8" stroke-opacity=".5"/>
+  <rect class="scan" width="1000" height="2" fill="#39d0c8" opacity=".18" filter="url(#glow)"/>
+
+  <circle cx="30" cy="27" r="6" fill="#ff6b6b"/>
+  <circle cx="50" cy="27" r="6" fill="#ffd166"/>
+  <circle cx="70" cy="27" r="6" fill="#39d0c8"/>
+  <text x="94" y="32" class="small" fill="#9ca3af">adel@github:~ / identity</text>
+  <text x="34" y="72" class="mono" fill="#39d0c8">$ whoami</text>
+  <text x="34" y="101" class="mono" fill="#f5fbff">Adel Kazzaz</text>
+  <text x="34" y="126" class="small" fill="#b8c5cc">ML Systems · MLOps · real-time computer vision</text>
+  <text x="445" y="72" class="mono" fill="#39d0c8">$ status --focus</text>
+
+  <g class="prompt">
+    <circle class="status" cx="464" cy="106" r="5" fill="#8ef5dc" filter="url(#glow)"/>
+    <text x="480" y="111" class="small" fill="#d7fff4">model serving</text>
+    <text x="650" y="111" class="small" fill="#39d0c8">[ online ]</text>
+    <circle class="status two" cx="464" cy="135" r="5" fill="#8ef5dc" filter="url(#glow)"/>
+    <text x="480" y="140" class="small" fill="#d7fff4">observability</text>
+    <text x="650" y="140" class="small" fill="#39d0c8">[ online ]</text>
+    <circle class="status three" cx="464" cy="164" r="5" fill="#8ef5dc" filter="url(#glow)"/>
+    <text x="480" y="169" class="small" fill="#d7fff4">deployment</text>
+    <text x="650" y="169" class="small" fill="#39d0c8">[ online ]</text>
+  </g>
+
+  <line x1="34" y1="203" x2="966" y2="203" stroke="#39d0c8" stroke-opacity=".2"/>
+  <text x="34" y="229" class="small" fill="#9ca3af">$ echo "build → measure → ship → observe"</text>
+  <text x="449" y="229" class="mono cursor" fill="#8ef5dc">▌</text>
+</svg>

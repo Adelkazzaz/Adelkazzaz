@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
+  <title id="title">Animated ML systems telemetry monitor</title>
+  <desc id="desc">A terminal dashboard showing inference throughput, latency, accuracy, and deployment health.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop stop-color="#08111d"/>
+      <stop offset="1" stop-color="#123b43"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .mono { font: 600 13px 'JetBrains Mono', 'Courier New', monospace; }
+      .value { font: 700 21px 'JetBrains Mono', 'Courier New', monospace; fill: #f5fbff; }
+      .label { font: 11px 'JetBrains Mono', 'Courier New', monospace; fill: #9ca3af; }
+      .panel { fill: #091722; fill-opacity: .85; stroke: #39d0c8; stroke-opacity: .42; }
+      .wave { fill: none; stroke: #39d0c8; stroke-width: 2; stroke-dasharray: 6 8; animation: move 2s linear infinite; }
+      .bar { fill: #39d0c8; filter: url(#glow); transform-origin: left; animation: meter 2.4s ease-in-out infinite alternate; }
+      .dot { fill: #8ef5dc; filter: url(#glow); animation: blink 1.6s ease-in-out infinite; }
+      .dot.two { animation-delay: .4s; }
+      .dot.three { animation-delay: .8s; }
+      @keyframes move { to { stroke-dashoffset: -28; } }
+      @keyframes meter { from { transform: scaleX(.55); } to { transform: scaleX(1); } }
+      @keyframes blink { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .wave, .bar, .dot { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1000" height="190" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="998" height="188" rx="17" fill="none" stroke="#39d0c8" stroke-opacity=".45"/>
+  <circle cx="27" cy="27" r="6" fill="#ff6b6b"/><circle cx="47" cy="27" r="6" fill="#ffd166"/><circle cx="67" cy="27" r="6" fill="#39d0c8"/>
+  <text x="91" y="32" class="mono" fill="#9ca3af">adel@github:~/ml-systems$ observe --live</text>
+  <text x="30" y="62" class="label">TELEMETRY / OBJECT-DETECTION-SERVICE / HEALTHY</text>
+
+  <g transform="translate(30 82)">
+    <rect class="panel" width="220" height="76" rx="9"/>
+    <text x="16" y="22" class="label">THROUGHPUT</text><text x="16" y="51" class="value">196 FPS</text>
+    <path class="wave" d="M116 46l12-12 12 18 12-27 12 15 12-9 12 15 12-12 12 12"/>
+  </g>
+  <g transform="translate(270 82)">
+    <rect class="panel" width="220" height="76" rx="9"/>
+    <text x="16" y="22" class="label">LATENCY</text><text x="16" y="51" class="value">5.1 ms</text>
+    <rect x="116" y="44" width="82" height="5" rx="3" fill="#17323a"/><rect class="bar" x="116" y="44" width="62" height="5" rx="3"/>
+  </g>
+  <g transform="translate(510 82)">
+    <rect class="panel" width="220" height="76" rx="9"/>
+    <text x="16" y="22" class="label">ACCURACY</text><text x="16" y="51" class="value">92.4% mAP</text>
+    <circle class="dot" cx="178" cy="46" r="7"/><circle class="dot two" cx="198" cy="46" r="7"/>
+  </g>
+  <g transform="translate(750 82)">
+    <rect class="panel" width="220" height="76" rx="9"/>
+    <text x="16" y="22" class="label">DEPLOYMENT</text><text x="16" y="51" class="value">ONLINE</text>
+    <circle class="dot three" cx="184" cy="46" r="7"/>
+  </g>
+</svg>
