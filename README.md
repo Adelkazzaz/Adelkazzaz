@@ -1,14 +1,14 @@
 <div align="center">
 
-<a href="https://github.com/Adelkazzaz">
+<a href="https://github.com/Adelkazzaz" target="_blank" rel="noopener noreferrer">
   <img src="./assets/terminal-hero.svg" alt="Animated terminal hero for Adel Kazzaz: ML Systems, MLOps, and real-time computer vision" width="100%"/>
 </a>
 
-<a href="https://www.linkedin.com/in/adelkazzaz"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=39d0c8" alt="LinkedIn"/></a>
-<a href="https://kaggle.com/adelkazzaz"><img src="https://img.shields.io/badge/Kaggle-0b1220?style=for-the-badge&logo=kaggle&logoColor=39d0c8" alt="Kaggle"/></a>
-<a href="https://leetcode.com/u/AdelKazzaz/"><img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=39d0c8" alt="LeetCode"/></a>
-<a href="https://codeforces.com/profile/adelkazzaz"><img src="https://img.shields.io/badge/Codeforces-0b1220?style=for-the-badge&logo=codeforces&logoColor=39d0c8" alt="Codeforces"/></a>
-<a href="mailto:contact.kazzaz@gmail.com"><img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=39d0c8" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/adelkazzaz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=39d0c8" alt="LinkedIn — opens in a new tab"/></a>
+<a href="https://kaggle.com/adelkazzaz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kaggle-0b1220?style=for-the-badge&logo=kaggle&logoColor=39d0c8" alt="Kaggle — opens in a new tab"/></a>
+<a href="https://leetcode.com/u/AdelKazzaz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=39d0c8" alt="LeetCode — opens in a new tab"/></a>
+<a href="https://codeforces.com/profile/adelkazzaz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codeforces-0b1220?style=for-the-badge&logo=codeforces&logoColor=39d0c8" alt="Codeforces — opens in a new tab"/></a>
+<a href="mailto:contact.kazzaz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=39d0c8" alt="Email"/></a>
 
 </div>
 
@@ -35,10 +35,10 @@ real-time-object-detection  easy-deploy  MiniRag  Linucast
 
 <div align="center">
 
-<a href="https://github.com/Adelkazzaz">[ open: real-time-object-detection ]</a> ·
-<a href="https://github.com/Adelkazzaz">[ open: easy-deploy ]</a> ·
-<a href="https://github.com/Adelkazzaz/MiniRag">[ open: MiniRag ]</a> ·
-<a href="https://github.com/Adelkazzaz/Linucast">[ open: Linucast ]</a>
+<a href="https://github.com/Adelkazzaz" target="_blank" rel="noopener noreferrer">[ open: real-time-object-detection ↗ ]</a> ·
+<a href="https://github.com/Adelkazzaz" target="_blank" rel="noopener noreferrer">[ open: easy-deploy ↗ ]</a> ·
+<a href="https://github.com/Adelkazzaz/MiniRag" target="_blank" rel="noopener noreferrer">[ open: MiniRag ↗ ]</a> ·
+<a href="https://github.com/Adelkazzaz/Linucast" target="_blank" rel="noopener noreferrer">[ open: Linucast ↗ ]</a>
 
 </div>
 
@@ -89,10 +89,12 @@ real-time-object-detection  easy-deploy  MiniRag  Linucast
 
 <br />
 
-<a href="mailto:contact.kazzaz@gmail.com">$ printf "Let’s build something reliable.\n"</a>
+<a href="mailto:contact.kazzaz@gmail.com" target="_blank" rel="noopener noreferrer">$ printf "Let’s build something reliable.\n" ↗</a>
 
 <br /><br />
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:39d0c8,100:0b1220&height=110&section=footer&animation=fadeIn)
+<a href="https://github.com/Adelkazzaz" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/terminal-pipeline.svg" alt="Animated terminal pipeline footer — opens GitHub in a new tab" width="100%"/>
+</a>
 
 </div>
