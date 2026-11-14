@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+  <title id="title">Animated terminal technology stack</title>
+  <desc id="desc">A Linux terminal-style animated overview of programming, machine learning, serving, and infrastructure tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#08111d"/>
+      <stop offset=".55" stop-color="#0d2430"/>
+      <stop offset="1" stop-color="#123b43"/>
+    </linearGradient>
+    <linearGradient id="meter" x1="0" x2="1">
+      <stop stop-color="#39d0c8" stop-opacity=".25"/>
+      <stop offset=".7" stop-color="#39d0c8"/>
+      <stop offset="1" stop-color="#8ef5dc"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#39d0c8" stroke-opacity=".06"/>
+    </pattern>
+    <style>
+      .terminal { font: 600 14px 'JetBrains Mono', 'Courier New', monospace; }
+      .title { font: 700 15px 'JetBrains Mono', 'Courier New', monospace; fill: #f5fbff; }
+      .text { font: 12px 'JetBrains Mono', 'Courier New', monospace; fill: #b8c5cc; }
+      .tag { font: 600 12px 'JetBrains Mono', 'Courier New', monospace; fill: #d7fff4; }
+      .panel { fill: #091722; fill-opacity: .82; stroke: #39d0c8; stroke-opacity: .5; }
+      .bar { fill: url(#meter); filter: url(#glow); transform-origin: left; animation: load 2.8s ease-in-out infinite alternate; }
+      .scan { fill: #39d0c8; opacity: .06; animation: scan 4s linear infinite; }
+      .cursor { animation: blink 1s steps(2, start) infinite; }
+      @keyframes load { from { transform: scaleX(.55); } to { transform: scaleX(1); } }
+      @keyframes scan { from { transform: translateY(0); } to { transform: translateY(330px); } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .bar, .scan, .cursor { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1000" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="360" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="998" height="358" rx="17" fill="none" stroke="#39d0c8" stroke-opacity=".35"/>
+  <rect class="scan" x="0" y="0" width="1000" height="2"/>
+  <circle cx="28" cy="27" r="6" fill="#ff6b6b"/><circle cx="48" cy="27" r="6" fill="#ffd166"/><circle cx="68" cy="27" r="6" fill="#39d0c8"/>
+  <text x="92" y="32" class="terminal" fill="#9ca3af">adel@github:~/ml-systems$ stack --list --animated</text>
+  <text x="34" y="66" class="terminal" fill="#39d0c8">$ cat /etc/adel/toolchain</text>
+  <text x="34" y="88" class="text">runtime: production-minded · platform: linux · status: </text>
+  <text x="411" y="88" class="tag">ONLINE</text><text x="476" y="88" class="cursor" fill="#8ef5dc">▌</text>
+
+  <g transform="translate(34 112)">
+    <rect class="panel" width="286" height="100" rx="10"/>
+    <text x="18" y="25" class="title">01 / LANGUAGES</text>
+    <text x="18" y="52" class="tag">Python   C++   Go   C#   Bash</text>
+    <rect x="18" y="72" width="250" height="5" rx="3" fill="#17323a"/>
+    <rect class="bar" x="18" y="72" width="232" height="5" rx="3"/>
+  </g>
+  <g transform="translate(357 112)">
+    <rect class="panel" width="286" height="100" rx="10"/>
+    <text x="18" y="25" class="title">02 / ML &amp; VISION</text>
+    <text x="18" y="52" class="tag">PyTorch  TensorFlow  ONNX</text>
+    <rect x="18" y="72" width="250" height="5" rx="3" fill="#17323a"/>
+    <rect class="bar" x="18" y="72" width="205" height="5" rx="3" style="animation-delay:.45s"/>
+  </g>
+  <g transform="translate(680 112)">
+    <rect class="panel" width="286" height="100" rx="10"/>
+    <text x="18" y="25" class="title">03 / SERVING</text>
+    <text x="18" y="52" class="tag">FastAPI  Docker  Kubernetes</text>
+    <rect x="18" y="72" width="250" height="5" rx="3" fill="#17323a"/>
+    <rect class="bar" x="18" y="72" width="218" height="5" rx="3" style="animation-delay:.9s"/>
+  </g>
+  <g transform="translate(34 236)">
+    <rect class="panel" width="932" height="78" rx="10"/>
+    <text x="18" y="27" class="title">04 / INFRASTRUCTURE</text>
+    <text x="18" y="54" class="tag">AWS   Azure   Linux   MongoDB   MySQL   Git   GitHub Actions</text>
+    <text x="786" y="27" class="text">CI/CD</text><text x="786" y="54" class="tag">READY</text>
+  </g>
+  <text x="34" y="342" class="text">last scan: now · reproducibility: enabled · observability: enabled</text>
+</svg>

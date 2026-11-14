@@ -1,83 +1,151 @@
-<h1 align="left">Hello world! 👋, I'm Adel Kazzaz</h1>
-<h3 align="left">
-  Machine Learning Engineer, Hands-on Computer Vision, MLOps,
-  and dedicated to understanding the software lifecycle and data flow.
-</h3>
+<div align="center">
 
+<a href="https://github.com/Adelkazzaz">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=39D0C8&center=true&vCenter=true&width=800&lines=adel%40github%3A~%24+whoami;ML+Systems+%7C+MLOps+%7C+Real-Time+Computer+Vision;Model+Serving+%7C+Inference+Optimization+%7C+Cloud;From+experiment+to+reliable+production+inference" alt="Animated terminal introduction"/>
+</a>
 
+<br />
 
-<!-- Social Links -->
-<h3 align="left">Find me Here:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adelkazzaz" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adelkazzaz" height="30" width="40"/>
-  </a>
-  <a href="https://kaggle.com/adelkazzaz" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adelkazzaz" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/AdelKazzaz/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="adelkazzaz" height="30" width="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/adelkazzaz" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adelkazzaz" height="30" width="40"/>
-  </a>
-</p>
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│  adel@github:~$ whoami                                                   │
+│  Adel Kazzaz — ML Systems, MLOps, and real-time computer vision           │
+│                                                                          │
+│  adel@github:~$ status --focus                                            │
+│  [online] model serving  [online] observability  [online] deployment     │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
+<img src="./assets/terminal-pipeline.svg" alt="Animated ML systems pipeline: data, training, serving, and observability" width="100%"/>
 
-<!-- Contact -->
-- 📫 How to reach me: **<contact.kazzaz@gmail.com>**
+<a href="https://www.linkedin.com/in/adelkazzaz"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=39d0c8" alt="LinkedIn"/></a>
+<a href="https://kaggle.com/adelkazzaz"><img src="https://img.shields.io/badge/Kaggle-0b1220?style=for-the-badge&logo=kaggle&logoColor=39d0c8" alt="Kaggle"/></a>
+<a href="https://leetcode.com/u/AdelKazzaz/"><img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=39d0c8" alt="LeetCode"/></a>
+<a href="https://codeforces.com/profile/adelkazzaz"><img src="https://img.shields.io/badge/Codeforces-0b1220?style=for-the-badge&logo=codeforces&logoColor=39d0c8" alt="Codeforces"/></a>
+<a href="mailto:contact.kazzaz@gmail.com"><img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=39d0c8" alt="Email"/></a>
 
-<div align="center">  
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adelkazzaz&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
-</p>
+</div>
 
-<!-- Trophy -->
-### 📈 &nbsp;Analytics
-<img title="Does rerunning ci count as a contribution? 💰" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adelkazzaz&theme=vue-dark&hide_border=true&theme=algolia&ount_private=true&line_height=26%22"/>
+<br />
 
-<img title="A+++++++++ I <3 arbitrary grades" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adelkazzaz&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&line_height=26%22"/>
+## `>_` About me
 
-<img title="And they say Java has a lot of boilerplate..." height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adelkazzaz&layout=compact&langs_count=8&theme=algolia&hide_border=true&line_height=26"/>
+I build the systems around machine learning: preparing data, training and evaluating models, optimizing runtimes, packaging inference services, and making deployments observable.
 
+My sweet spot is **ML Systems, MLOps, and real-time computer vision**. I care about measurable throughput, reproducible experiments, clean interfaces, and the engineering trade-offs that turn a promising model into a dependable product.
 
-## Technical skills
+```text
+focus/
+├── model serving & inference optimization
+├── computer vision & real-time pipelines
+├── containers, APIs & cloud deployment
+└── CI/CD, monitoring & reproducible experiments
+```
 
-<p align="center">
+## `./featured-work.sh`
 
-<!-- Programming Languages -->
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-patterns/mlflow.svg" alt="mlflow" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/aspnet/mvc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="aspnetmvc" width="40" height="40"/> </a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.sql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</p>
+### 🚗 Real-Time Object Detection
+
+End-to-end computer vision pipeline built with **YOLOv11n** on KITTI and deployed on Azure.
+
+`92.4% mAP` · `196 FPS` · `5.1 ms latency`
+
+ONNX/TorchScript export, inference optimization, API serving, and pipeline monitoring.
+
+<a href="https://github.com/Adelkazzaz">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Easy Deploy
+
+Automated platform for shipping GitHub repositories directly to AWS infrastructure.
+
+Infrastructure automation, CI/CD orchestration, and cloud resource management designed to reduce configuration overhead.
+
+<a href="https://github.com/Adelkazzaz">View project →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 MiniRag
+
+Production-oriented RAG service for low-latency document question answering.
+
+FastAPI · LangChain · Qdrant · MongoDB · Docker
+
+<a href="https://github.com/Adelkazzaz/MiniRag">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎥 Linucast
+
+Linux virtual camera application with real-time AI face tracking, auto-framing, and background segmentation.
+
+Native, low-overhead video inference for Linux desktop pipelines.
+
+<a href="https://github.com/Adelkazzaz/Linucast">View repository →</a>
+
+</td>
+</tr>
+</table>
+
+## `stack --list`
+
+<img src="./assets/terminal-stack.svg" alt="Animated terminal technology stack" width="100%"/>
+
+<div align="center">
+
+`Python` · `C++` · `Go` · `C#` · `Bash`<br />
+`PyTorch` · `TensorFlow` · `ONNX` · `FastAPI`<br />
+`Docker` · `Kubernetes` · `AWS` · `Azure` · `Linux`<br />
+`MongoDB` · `MySQL` · `Git` · `GitHub Actions`
+
+</div>
+
+## `metrics --live`
+
+<div align="center">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adelkazzaz&theme=github_dark" alt="GitHub statistics"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adelkazzaz&theme=github_dark" alt="Most used programming languages"/>
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adelkazzaz&theme=github_dark" alt="GitHub contribution activity"/>
+
+</div>
+
+<details>
+<summary><b>Animated contribution graph</b></summary>
+<br />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adelkazzaz/Adelkazzaz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adelkazzaz/Adelkazzaz/output/github-contribution-grid-snake.svg">
+  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/Adelkazzaz/Adelkazzaz/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+</details>
+
+<div align="center">
+
+<br />
+
+<a href="mailto:contact.kazzaz@gmail.com">Let’s build something reliable.</a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d0c8,100:0b1220&height=110&section=footer&animation=fadeIn" alt="" width="100%"/>
 
 </div>
