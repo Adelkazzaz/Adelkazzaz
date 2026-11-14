@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+  <title id="title">Adel Kazzaz ML systems terminal hero</title>
+  <desc id="desc">An animated Linux terminal showing Adel Kazzaz and a live real-time computer vision inference signal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#060d17"/>
+      <stop offset=".58" stop-color="#0b202b"/>
+      <stop offset="1" stop-color="#123f45"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#39d0c8" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#39d0c8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#39d0c8" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .mono { font: 600 14px 'JetBrains Mono', 'Courier New', monospace; }
+      .small { font: 12px 'JetBrains Mono', 'Courier New', monospace; }
+      .big { font: 700 31px 'JetBrains Mono', 'Courier New', monospace; }
+      .muted { fill: #9ca3af; }
+      .teal { fill: #39d0c8; }
+      .white { fill: #f5fbff; }
+      .panel { fill: #07131e; fill-opacity: .76; stroke: #39d0c8; stroke-opacity: .4; }
+      .scan { animation: scan 4s linear infinite; }
+      .cursor { animation: blink 1s steps(2, start) infinite; }
+      .pulse { animation: pulse 2s ease-in-out infinite; transform-origin: center; }
+      .pulse.two { animation-delay: .35s; }
+      .pulse.three { animation-delay: .7s; }
+      .dash { stroke-dasharray: 7 11; animation: dash 2s linear infinite; }
+      .orbit { animation: orbit 8s linear infinite; transform-origin: 785px 212px; }
+      .orbit.two { animation-duration: 11s; animation-direction: reverse; }
+      @keyframes scan { from { transform: translateY(0); } to { transform: translateY(397px); } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes pulse { 0%, 100% { opacity: .35; transform: scale(.85); } 50% { opacity: 1; transform: scale(1.15); } }
+      @keyframes dash { to { stroke-dashoffset: -36; } }
+      @keyframes orbit { to { transform: rotate(360deg); } }
+      @media (prefers-reduced-motion: reduce) {
+        .scan, .cursor, .pulse, .dash, .orbit { animation: none; }
+      }
+    </style>
+  </defs>
+  <rect width="1000" height="420" rx="20" fill="url(#bg)"/>
+  <rect width="1000" height="420" rx="20" fill="url(#grid)"/>
+  <circle cx="785" cy="212" r="205" fill="url(#halo)"/>
+  <rect x="1" y="1" width="998" height="418" rx="19" fill="none" stroke="#39d0c8" stroke-opacity=".55"/>
+  <rect class="scan" width="1000" height="2" fill="#39d0c8" opacity=".17" filter="url(#glow)"/>
+
+  <circle cx="30" cy="29" r="6" fill="#ff6b6b"/><circle cx="50" cy="29" r="6" fill="#ffd166"/><circle cx="70" cy="29" r="6" fill="#39d0c8"/>
+  <text x="94" y="34" class="small muted">adel@github:~ / ml-systems</text>
+  <text x="34" y="78" class="mono teal">$ whoami</text>
+  <text x="34" y="119" class="big white">Adel Kazzaz</text>
+  <text x="36" y="149" class="mono muted">ML Systems · MLOps</text>
+  <text x="36" y="174" class="mono muted">real-time computer vision</text>
+  <text x="36" y="218" class="mono teal">$ mission --current</text>
+  <text x="36" y="245" class="small white">turning models into observable</text>
+  <text x="36" y="267" class="small white">production inference systems</text>
+  <text x="36" y="313" class="mono teal">$ systemctl status adel</text>
+  <circle class="pulse" cx="47" cy="344" r="5" fill="#8ef5dc" filter="url(#glow)"/>
+  <text x="63" y="349" class="small" fill="#d7fff4">inference.service — active (running)</text>
+  <text x="36" y="383" class="small muted">$ echo "build → measure → ship → observe"</text>
+  <text x="429" y="383" class="mono cursor" fill="#8ef5dc">▌</text>
+
+  <rect class="panel" x="555" y="66" width="400" height="292" rx="14"/>
+  <text x="580" y="98" class="mono teal">/var/log/inference/live</text>
+  <text x="580" y="121" class="small muted">computer-vision signal monitor</text>
+  <line x1="580" y1="141" x2="930" y2="141" stroke="#39d0c8" stroke-opacity=".25"/>
+  <circle class="pulse two" cx="785" cy="212" r="45" fill="none" stroke="#39d0c8" stroke-opacity=".3"/>
+  <circle class="pulse three" cx="785" cy="212" r="78" fill="none" stroke="#39d0c8" stroke-opacity=".2"/>
+  <circle cx="785" cy="212" r="12" fill="#8ef5dc" filter="url(#glow)"/>
+  <g class="orbit"><circle cx="785" cy="129" r="4" fill="#39d0c8"/><circle cx="785" cy="295" r="4" fill="#8ef5dc"/></g>
+  <g class="orbit two"><circle cx="703" cy="212" r="4" fill="#39d0c8"/><circle cx="867" cy="212" r="4" fill="#8ef5dc"/></g>
+  <path class="dash" d="M610 250 C650 218, 665 287, 700 252 S750 219, 785 252 S835 284, 870 249 S905 222, 930 245" fill="none" stroke="#39d0c8" stroke-width="2"/>
+  <text x="580" y="326" class="small muted">throughput  <tspan class="white">196 FPS</tspan>   latency  <tspan class="white">5.1 ms</tspan></text>
+  <text x="580" y="347" class="small muted">accuracy   <tspan class="white">92.4% mAP</tspan>   status  <tspan class="teal">ONLINE</tspan></text>
+</svg>

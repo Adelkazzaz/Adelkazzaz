@@ -1,10 +1,8 @@
 <div align="center">
 
 <a href="https://github.com/Adelkazzaz">
-  <img src="./assets/terminal-identity.svg" alt="Animated terminal identity for Adel Kazzaz: ML Systems, MLOps, and real-time computer vision" width="100%"/>
+  <img src="./assets/terminal-hero.svg" alt="Animated terminal hero for Adel Kazzaz: ML Systems, MLOps, and real-time computer vision" width="100%"/>
 </a>
-
-<img src="./assets/terminal-pipeline.svg" alt="Animated ML systems pipeline: data, training, serving, and observability" width="100%"/>
 
 <a href="https://www.linkedin.com/in/adelkazzaz"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=39d0c8" alt="LinkedIn"/></a>
 <a href="https://kaggle.com/adelkazzaz"><img src="https://img.shields.io/badge/Kaggle-0b1220?style=for-the-badge&logo=kaggle&logoColor=39d0c8" alt="Kaggle"/></a>
@@ -28,29 +26,6 @@ focus/
 ├── computer vision & real-time pipelines
 ├── containers, APIs & cloud deployment
 └── CI/CD, monitoring & reproducible experiments
-```
-
-## `$ ./featured-work.sh --verbose`
-
-```text
-┌─[01] real-time-object-detection────────────────────────────────────────────
-│ YOLOv11n · KITTI · Azure                                                 
-│ 92.4% mAP  ·  196 FPS  ·  5.1 ms latency                                
-│ ONNX/TorchScript export · API serving · pipeline monitoring             
-└─> github.com/Adelkazzaz                                                
-
-┌─[02] easy-deploy───────────────────────────────────────────────────────────
-│ GitHub → AWS automation · infrastructure provisioning · CI/CD orchestration
-│ Reduced developer cloud configuration overhead by 40%                      
-└─> github.com/Adelkazzaz                                                    
-
-┌─[03] minirag───────────────────────────────────────────────────────────────
-│ Low-latency document Q&A · FastAPI · LangChain · Qdrant · MongoDB · Docker 
-└─> github.com/Adelkazzaz/MiniRag                                            
-
-┌─[04] linucast──────────────────────────────────────────────────────────────
-│ Linux virtual camera · face tracking · auto-framing · segmentation         
-└─> github.com/Adelkazzaz/Linucast                                           
 ```
 
 ```console
@@ -118,6 +93,6 @@ real-time-object-detection  easy-deploy  MiniRag  Linucast
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d0c8,100:0b1220&height=110&section=footer&animation=fadeIn" alt="" width="100%"/>
+![](https://capsule-render.vercel.app/api?type=waving&color=0:39d0c8,100:0b1220&height=110&section=footer&animation=fadeIn)
 
 </div>
