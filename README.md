@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="assets/neural-particle-portrait-hd.gif" alt="Animated neural point-cloud reconstruction of Adel Kazzaz" width="100%" />
+<img src="assets/neural-particle-portrait.gif" alt="Animated neural point-cloud reconstruction of Adel Kazzaz" width="100%" />
 
 <a href="https://www.linkedin.com/in/adelkazzaz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=39d0c8" alt="LinkedIn — opens in a new tab"/></a>
 <a href="https://kaggle.com/adelkazzaz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kaggle-0b1220?style=for-the-badge&logo=kaggle&logoColor=39d0c8" alt="Kaggle — opens in a new tab"/></a>
