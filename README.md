@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=39D0C8&center=true&vCenter=true&width=800&lines=adel%40github%3A~%24+whoami;ML+Systems+%7C+MLOps+%7C+Real-Time+Computer+Vision;Model+Serving+%7C+Inference+Optimization+%7C+Cloud;From+experiment+to+reliable+production+inference" alt="Animated terminal introduction"/>
 </a>
 
-<!-- Terminal-inspired profile header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:080B14,50:111827,100:0B2530&text=ADEl%20KAZZAZ&fontColor=E6F7FF&fontSize=48&fontAlignY=42&desc=ML%20SYSTEMS%20%2F%20MLOPS%20%2F%20COMPUTER%20VISION&descAlignY=66&descSize=15&animation=fadeIn" alt="Adel Kazzaz — ML Systems, MLOps, Computer Vision" />
-
-
 <br/>
 <a href="https://www.linkedin.com/in/adelkazzaz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=39d0c8" alt="LinkedIn — opens in a new tab"/></a>
 <a href="https://kaggle.com/adelkazzaz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kaggle-0b1220?style=for-the-badge&logo=kaggle&logoColor=39d0c8" alt="Kaggle — opens in a new tab"/></a>
@@ -16,7 +12,6 @@
 <a href="mailto:contact.kazzaz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=39d0c8" alt="Email"/></a>
 
 <br/>
-
 
 </div>
 
@@ -45,7 +40,7 @@ runtime behavior, and failure modes are understood.
 ## `01` / Engineering focus
 
 | Area | What I'm working with |
-|---|---|
+| --- | --- |
 | Machine learning | Model development, evaluation, experiment tracking |
 | Computer vision | Object detection, inference optimization, ONNX Runtime |
 | MLOps | Docker, MLflow, CI/CD, model deployment |
