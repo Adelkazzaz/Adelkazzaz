@@ -15,9 +15,8 @@
 <a href="https://codeforces.com/profile/adelkazzaz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codeforces-0b1220?style=for-the-badge&logo=codeforces&logoColor=39d0c8" alt="Codeforces — opens in a new tab"/></a>
 <a href="mailto:contact.kazzaz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=39d0c8" alt="Email"/></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=58D6C7&center=true&vCenter=true&width=720&lines=%24+whoami;Machine+Learning+Engineer;Building+reliable+ML+systems+from+data+to+deployment;%24+ cat+%2Fetc%2Fengineering-focus;Computer+Vision+%7C+MLOps+%7C+Cloud+Infrastructure" alt="Animated terminal introduction" />
 
 </div>
 
